@@ -1,0 +1,94 @@
+[
+
+  {
+
+    "id": 2,
+
+    "name": "SCP-002",
+
+    "class": "Euclid",
+
+    "image": "/scp2.jpg",
+
+    "desc": "SCP-002 is a fleshy, tumor-like growth with an interior resembling a furnished apartment. Objects placed inside are incorporated into its structure.",
+
+    "containment": "SCP-002 must remain connected to a power supply at all times to prevent growth. Personnel entering must be monitored carefully.",
+
+    "reference": "Several missing persons are believed to have been absorbed into SCP-002."
+
+  },
+
+  {
+
+    "id": 3,
+
+    "name": "SCP-003",
+
+    "class": "Euclid",
+
+    "image": "/scp3.jpg",
+
+    "desc": "SCP-003 is a complex organic circuit that grows and adapts when exposed to heat. It forms intricate patterns resembling advanced technology.",
+
+    "containment": "SCP-003 must be kept at low temperatures. Exposure to heat must be strictly controlled.",
+
+    "reference": "Its structure suggests non-human intelligence and unknown origin."
+
+  },
+
+  {
+
+    "id": 4,
+
+    "name": "SCP-004",
+
+    "class": "Euclid",
+
+    "image": "/scp4.jpg",
+
+    "desc": "SCP-004 consists of an old wooden door and 12 rusted keys. Only one key opens the door safely, others cause severe dimensional distortion.",
+
+    "containment": "All keys must be kept in a secure container. Testing must be approved by senior staff.",
+
+    "reference": "Incorrect key usage has resulted in severe injuries and disappearance of personnel."
+
+  },
+
+  {
+
+    "id": 5,
+
+    "name": "SCP-005",
+
+    "class": "Safe",
+
+    "image": "/scp5.jpg",
+
+    "desc": "SCP-005 is a key capable of opening any lock, regardless of complexity or design.",
+
+    "containment": "SCP-005 must be stored securely and used only for authorized access operations.",
+
+    "reference": "No lock has been found that SCP-005 cannot open."
+
+  },
+
+  {
+
+    "id": 6,
+
+    "name": "SCP-006",
+
+    "class": "Safe",
+
+    "image": "/scp6.jpg",
+
+    "desc": "SCP-006 is a small spring of water that has powerful healing properties, including reversing aging and curing diseases.",
+
+    "containment": "Access is highly restricted. Water samples must be controlled and stored securely.",
+
+    "reference": "Overexposure may cause dangerous biological effects."
+
+  }
+
+]
+ 
